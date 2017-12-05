@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <17/11/24 13:41:26 /home/goran/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <17/12/05 16:19:33 /home/goran/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -22,4 +22,5 @@
   ("~root" "/root")
   ("tmpdir" "/tmp")
   ("touch-t" t)
-  ("touch" "\\touch")))
+  ("touch" "\\touch")
+  ("git" "\\git")))
